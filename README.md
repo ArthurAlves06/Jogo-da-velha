@@ -1,4 +1,4 @@
-♟️ Jogo da Velha (Tic-Tac-Toe) em C
+✖️⭕ Jogo da Velha (Tic-Tac-Toe) em C
 ===================================
 
 * * * * *
